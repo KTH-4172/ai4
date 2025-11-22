@@ -71,17 +71,17 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
-       "texts": [""],
+       "texts": ["리그 오브 레전드는 AOS게임으로서 대한민국에서 2011년에 처음 출시했습니다."],
        "images": [""],
        "videos": [""]
      },
      labels[1]: {
-       "texts": [""],
+       "texts": ["발로란트는 FPS게임으로서 대한민국에 2020년에 처음 출시했습니다."],
        "images": [""],
        "videos": [""]
      },
      labels[2]: {
-       "texts": [""],
+       "texts": ["오버워치는 하이퍼 FPS게임으로서 대한민국에 2016년에 출시되어 2022년에 서비스 종료 후 같은 년도에 오버워치2로 재출시되었습니다."],
        "images": [""],
        "videos": [""]
      },
