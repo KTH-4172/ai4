@@ -77,7 +77,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      },
      labels[1]: {
        "texts": ["발로란트는 FPS게임으로서 대한민국에 2020년에 처음 출시했습니다."],
-       "images": [""],
+       "images": ["https://i.namu.wiki/i/nAFu_NVUgzfu1S5SvSP0RZFLtiznV6UW0I9rR9mbTtIKFBojpUYcFLhJ0OVKYni_8Qcbrx9O1bNV9IOT6ejAEQ.webp"],
        "videos": [""]
      },
      labels[2]: {
