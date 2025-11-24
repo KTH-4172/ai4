@@ -73,17 +73,17 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      labels[0]: {
        "texts": ["리그 오브 레전드는 AOS게임으로서 대한민국에서 2011년에 처음 출시했습니다."],
        "images": ["https://i.namu.wiki/i/bcJDyma8areiVI20l4oUFYr6Y6LqPw3NczClG_r0PGkmwvFqEzbkdpUkUdIl1b15WotgqANrvYW4p0LcTcXyyA.webp"],
-       "videos": [""]
+       "videos": ["https://www.youtube.com/watch?v=_E6OwS6luZw"]
      },
      labels[1]: {
        "texts": ["발로란트는 FPS게임으로서 대한민국에 2020년에 처음 출시했습니다."],
        "images": ["https://i.namu.wiki/i/nAFu_NVUgzfu1S5SvSP0RZFLtiznV6UW0I9rR9mbTtIKFBojpUYcFLhJ0OVKYni_8Qcbrx9O1bNV9IOT6ejAEQ.webp"],
-       "videos": [""]
+       "videos": ["https://www.youtube.com/watch?v=EGd2H11qKPI"]
      },
      labels[2]: {
        "texts": ["오버워치는 하이퍼 FPS게임으로서 대한민국에 2016년에 출시되어 2022년에 서비스 종료 후 같은 년도에 오버워치2로 재출시되었습니다."],
        "images": ["https://static.wikia.nocookie.net/overwatch152/images/b/bf/%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98_%EB%A1%9C%EA%B3%A0.jpg/revision/latest?cb=20160616114533&path-prefix=ko"],
-       "videos": [""]
+       "videos": ["https://www.youtube.com/watch?v=9sFUryyoJCw"]
      },
 }
 
