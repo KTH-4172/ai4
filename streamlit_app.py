@@ -72,7 +72,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
        "texts": ["리그 오브 레전드는 AOS게임으로서 대한민국에서 2011년에 처음 출시했습니다."],
-       "images": [""],
+       "images": ["https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/c1d412f408112f04dc09d41b8c9186ff1739aa89-1920x1080.jpg?auto=format&fit=fill&q=80&w=1082"],
        "videos": [""]
      },
      labels[1]: {
